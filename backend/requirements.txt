@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+motor
+python-telegram-bot
+python-dotenv
+pydantic[email]
+email-validator
+passlib[bcrypt]
+python-jose[cryptography]
+beautifulsoup4
+requests
+aiohttp
+python-multipart
